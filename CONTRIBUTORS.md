@@ -14,5 +14,5 @@
 
 Formato:
 
-- Oscar Manuel Benito Martín — [@OsquerM]([https://github.com/usuario](https://github.com/OsquerM))
+- Oscar Manuel Benito Martín — [@OsquerM](https://github.com/OsquerM)
 
