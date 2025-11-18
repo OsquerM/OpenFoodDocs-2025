@@ -14,5 +14,6 @@
 
 Formato:
 
-- Oscar Manuel Benito Martín — [@OsquerM](https://github.com/OsquerM)
+- Nombre Apellidos — [@usuario](https://github.com/usuario)
+
 
